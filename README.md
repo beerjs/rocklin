@@ -1,5 +1,3 @@
-# BeerJS: Rocklin
-
 ![BeerJS Rocklin Logo](./BeerJSBanner.png "BeerJS Rocklin")
 
 The City of Rocklin has a long history, but much of the growth has been within the last 30 years. Rocklin was first recognized as a destination along the transcontinental railroad in 1864, about the same time granite mining began. In 1912, nearly 2,000 train carloads of granite were sent out of town to become part of the state capitol building and buildings in San Francisco.
@@ -16,7 +14,12 @@ Come and hang out with other engineers, developers, hobbyist, and people interes
 
 We will be meeting on the **3rd Friday** of the month at *6pm*. The current home for a majority of our events will be [Kathrin's Biergarten](http://www.kathrinsbiergarten.com/) off Granite Dr in Rocklin, right off I-80.  There is plenty of parking!
 
-Want to join the BeerJS Community?
+## Want to join the BeerJS Community?
+
+Our community is our core.
+
+[BeerJS Slack](https://beerjs.slack.com)<br />
+[Join the BeerJS Slack Team](https://beers-slack-invite.herokuapp.com/)<br />
 -------------
 
 Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"> button on this repo (star us too!) to get notified of upcoming events.
@@ -30,13 +33,6 @@ Submit a Pull Request, file an Issue, or edit the Wiki.
 * Github is a more natural social network for a group of developers than Meetup.com. 
 * Less spam
 * Because Github is free which means more beer money (oh whiskey)!
-
-## The JS Community
-
-Our community is our core.
-
-[BeerJS Slack](https://beerjs.slack.com)<br />
-[Join the BeerJS Slack Team](https://beers-slack-invite.herokuapp.com/)<br />
 
 ### Our Regional Family
 
