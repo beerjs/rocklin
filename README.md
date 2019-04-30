@@ -4,7 +4,7 @@
 
 The City of Rocklin has a long history, but much of the growth has been within the last 30 years. Rocklin was first recognized as a destination along the transcontinental railroad in 1864, about the same time granite mining began. In 1912, nearly 2,000 train carloads of granite were sent out of town to become part of the state capitol building and buildings in San Francisco.
 
-Follow Events: [https://github.com/beerjs/rocklin/issues] (https://github.com/beerjs/rocklin/)
+Follow Events: [github.com/beerjs/rocklin/issues](https://github.com/beerjs/rocklin/)
 
 The sole purpose of BeerJS Rocklin is to discover, nourish, and strengthen the JavaScript community in our city & the surrounding cities that participate while enjoying some great brew in the process.
 
